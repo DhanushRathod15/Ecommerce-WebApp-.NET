@@ -86,7 +86,17 @@ Contributions are welcome! Feel free to:
 - Submit pull requests
 - Share your implementations
 
-## 📚 Additional Resources
+## 📖 Documentation
+
+This repository includes comprehensive documentation:
+
+- **[GUIDE.md](GUIDE.md)** - Complete step-by-step implementation guide (58KB, 2,245 lines)
+- **[QUICKSTART.md](QUICKSTART.md)** - Get started in 30 minutes
+- **[TROUBLESHOOTING.md](TROUBLESHOOTING.md)** - Common issues and solutions
+- **[GLOSSARY.md](GLOSSARY.md)** - Technical terms and definitions
+- **[CONTENTS.md](CONTENTS.md)** - Documentation overview and navigation
+
+## 📚 External Resources
 
 - [Official eShop Reference App](https://github.com/dotnet/eShop)
 - [.NET Documentation](https://docs.microsoft.com/dotnet/)
